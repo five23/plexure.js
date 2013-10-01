@@ -1,6 +1,8 @@
 plexure.js
 ==========
-A future confronting the past which is our future.
+"A future confronting the past which is our future."
+
+A work in progress and slowly evolving toolkit for exploring the Freesound API (and others).
 
 ![screenshot.png](/screenshot.png "screenshot")
 
@@ -19,6 +21,6 @@ Credits :
 
 - Danny Garcia, for the beautifully succinct "FIL" micro-framework, which served as a low-level scaffold for this project.
 
-- FREESOUND, BRAM, G-ROMA, FFONT, UPF, ET. AL.    TRUE OG's
+- FREESOUND, BRAM, G-ROMA, FFONT, UPF!!!!!!!
 
  
